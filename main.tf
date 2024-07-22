@@ -9,5 +9,5 @@ resource "null_resource" "create_folder" {
 }
 
 output "folder_path" {
-  value = "~/Desktop/testforSpacelift"
+  value = "~/Desktop/testforSpacelif"
 }
